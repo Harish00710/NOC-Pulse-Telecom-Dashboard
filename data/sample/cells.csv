@@ -1,0 +1,13 @@
+cell_id,site_name,region,technology,utilization_pct,availability_pct
+CELL-CHN-001,Anna Nagar North,Chennai,5G,72.4,99.91
+CELL-CHN-002,T Nagar Central,Chennai,4G,83.1,99.78
+CELL-CHN-003,Guindy Industrial,Chennai,5G,64.8,99.96
+CELL-CHN-004,Velachery East,Chennai,4G,91.2,99.42
+CELL-VLR-001,Katpadi Junction,Vellore,4G,58.6,99.88
+CELL-VLR-002,Vellore Fort,Vellore,5G,49.3,99.93
+CELL-RPT-001,Ranipet SIPCOT,Ranipet,4G,87.5,99.61
+CELL-RPT-002,Walajah Road,Ranipet,5G,53.7,99.89
+CELL-KPM-001,Kanchipuram East,Kanchipuram,4G,61.9,99.84
+CELL-KPM-002,Oragadam Hub,Kanchipuram,5G,78.2,99.9
+CELL-CGL-001,Chengalpattu North,Chengalpattu,4G,67.1,99.86
+CELL-CGL-002,Mahindra World City,Chengalpattu,5G,74.4,99.95

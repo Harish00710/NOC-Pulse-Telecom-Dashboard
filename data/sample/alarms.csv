@@ -1,0 +1,16 @@
+alarm_id,timestamp,severity,cell_id,issue_type,description,status,region,assignee
+ALM-2026-0001,2026-11-02T12:26:00+00:00,Critical,CELL-CHN-004,Backhaul Link Down,Backhaul interface unreachable; traffic rerouted to secondary path.,Open,Chennai,Transport NOC
+ALM-2026-0002,2026-11-02T11:49:00+00:00,Major,CELL-RPT-001,High PRB Utilization,Downlink resource utilization above 85% for 15 minutes.,Open,Chennai,RAN Optimization
+ALM-2026-0003,2026-11-02T11:12:00+00:00,Major,CELL-KPM-002,VSWR Threshold Breach,Antenna feeder return loss outside configured threshold.,Open,Ranipet,Field Operations
+ALM-2026-0004,2026-11-02T10:35:00+00:00,Minor,CELL-CHN-001,Cell Availability Degraded,Short service interruption detected during observation window.,Open,Vellore,RAN Support
+ALM-2026-0005,2026-11-02T09:58:00+00:00,Warning,CELL-CHN-004,Temperature Warning,Cabinet temperature approaching configured warning threshold.,Open,Kanchipuram,Field Operations
+ALM-2026-0006,2026-11-02T09:21:00+00:00,Major,CELL-RPT-001,Packet Loss Elevated,Packet loss observed on aggregation path above baseline.,Acknowledged,Chengalpattu,IP Operations
+ALM-2026-0007,2026-11-02T08:44:00+00:00,Minor,CELL-KPM-002,Neighbor Relation Missing,Potential missing neighbor relation identified in handover audit.,Resolved,Chennai,RAN Optimization
+ALM-2026-0008,2026-11-02T08:07:00+00:00,Warning,CELL-CHN-001,Power System on Battery,Site running on battery following AC input fluctuation.,Acknowledged,Ranipet,Power Team
+ALM-2026-0009,2026-11-02T07:30:00+00:00,Critical,CELL-CHN-004,Site Unreachable,Management heartbeat missed for three consecutive intervals.,Resolved,Vellore,Field Operations
+ALM-2026-0010,2026-11-02T06:53:00+00:00,Minor,CELL-RPT-001,S1 Signaling Retry,Elevated retry count observed on control-plane signaling.,Open,Kanchipuram,Core Network
+ALM-2026-0011,2026-11-02T06:16:00+00:00,Major,CELL-KPM-002,High CPU Utilization,Network element processor utilization above 80%.,Open,Chengalpattu,Core Network
+ALM-2026-0012,2026-11-02T05:39:00+00:00,Warning,CELL-CHN-001,Optical Power Low,Received optical power trending near warning threshold.,Resolved,Chennai,Transport NOC
+ALM-2026-0013,2026-11-02T05:02:00+00:00,Minor,CELL-CHN-004,Handover Failure Rate,Handover failure rate slightly above the daily baseline.,Acknowledged,Vellore,RAN Support
+ALM-2026-0014,2026-11-02T04:25:00+00:00,Major,CELL-RPT-001,DNS Query Latency,Resolver response time elevated for the monitored service group.,Open,Chennai,Core Network
+ALM-2026-0015,2026-11-02T03:48:00+00:00,Warning,CELL-KPM-002,Disk Utilization,Log partition has reached 78% utilization.,Open,Ranipet,Systems Team
